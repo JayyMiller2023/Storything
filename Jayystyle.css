@@ -1,0 +1,34 @@
+body{
+	/* ! Edited code ! */
+	/* ^ I couldn't find a way to make a box on the top so I had a graident instead ^ */
+	background: linear-gradient(to top, #ffffff,#ffffff,#ffffff,#ffffff,#ffffff, #ffffff, #ffffff,#ffffff,#ffffff,#ffffff,#ff0000);
+	color: #ffffff;
+}
+
+h1{
+	/* * h1 text * */
+	color: #000000;
+	text-shadow:0 0 2px rgb(255, 255, 255);
+	font-family: times new roman, arial;
+}
+
+h2{
+	/* *h2 Text* */
+	color: #930000;
+	text-shadow:0 0 2px rgb(255, 255, 255);
+	font-family: times new roman, arial;
+}
+
+h3{
+	/* *h3 Text* */
+	color: #ff0000;
+	text-shadow:0 0 2px rgb(255, 255, 255);
+	font-family: times new roman, arial;
+}
+
+p{
+	/* *p Text* */
+	color: #000000;
+	text-shadow:0 0 2px rgb(255, 255, 255);
+	font-family: times new roman, arial;
+}
